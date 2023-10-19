@@ -70,11 +70,15 @@ for nt from 1 to numOfTableRows
 				selectObject: "MFCC " + file_number$
 				start_frame = Get frame number from time: start
 				end_frame = Get frame number from time: end
-				appendFileLine: output_directory$ + person_name$ + "_" ,session_name$ + "_" + file_number$ + "_" +"frames", "start_frame:", start_frame, "	end_frame:", end_frame
+				directory$ = output_directory$ + person_name$ + "_" + session_name$ + "_" + file_number$ + "_" + "frames"
+				appendFileLine: directory$, "start_frame: ", start_frame, "	end_frame: ", end_frame
 			endif
 		endfor
 	endfor
-	removeObject: "TextGrid "
+	removeObject: "Matrix " + file_number$
+	removeObject: "MFCC " + file_number$
+	removeObject: "Sound " + file_number$
+	removeObject: "TextGrid " + file_number$
 	removeObject: "Strings " + file_number$
 	selectObject: "Table file_paths"  
 endfor
