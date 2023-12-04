@@ -1,0 +1,38 @@
+word:'feed' intervalName-f start_time:0.7411994593931729 end_time:0.8611918138127226 start_frame:146.23989187863458 end_frame:170.2383627625445
+word:'feed' intervalName-iy start_time:0.8611918138127226 end_time:1.0548373308410701 start_frame:170.2383627625445 end_frame:208.967466168214
+word:'feed' intervalName-d start_time:1.1090047234001597 end_time:1.1604880475873154 start_frame:219.8009446800319 end_frame:230.09760951746304
+word:'horn' intervalName-hh start_time:0.8995029840908629 end_time:1.0118556962963883 start_frame:177.9005968181726 end_frame:200.37113925927767
+word:'horn' intervalName-ao start_time:1.0118556962963883 end_time:1.1206434545886272 start_frame:200.37113925927767 end_frame:222.12869091772546
+word:'horn' intervalName-r start_time:1.1206434545886272 end_time:1.203449709305445 start_frame:222.12869091772546 end_frame:238.689941861089
+word:'horn' intervalName-n start_time:1.203449709305445 end_time:1.302646858406229 start_frame:238.689941861089 end_frame:258.5293716812458
+word:'the quick brown fox jumps over the lazy dog' intervalName-dh start_time:1.1385859348203735 end_time:1.1828609876114586 start_frame:225.71718696407467 end_frame:234.5721975222917
+word:'the quick brown fox jumps over the lazy dog' intervalName-ah start_time:1.1828609876114586 end_time:1.2169674951876115 start_frame:234.5721975222917 end_frame:241.39349903752228
+word:'the quick brown fox jumps over the lazy dog' intervalName-k start_time:1.2857679056342353 end_time:1.3613521469150924 start_frame:255.15358112684703 end_frame:270.27042938301844
+word:'the quick brown fox jumps over the lazy dog' intervalName-w start_time:1.3613521469150924 end_time:1.3872310406968453 start_frame:270.27042938301844 end_frame:275.44620813936905
+word:'the quick brown fox jumps over the lazy dog' intervalName-ih start_time:1.3872310406968453 end_time:1.438325102023375 start_frame:275.44620813936905 end_frame:285.665020404675
+word:'the quick brown fox jumps over the lazy dog' intervalName-k start_time:1.5115300663168032 end_time:1.54874669162401 start_frame:300.3060132633606 end_frame:307.74933832480195
+word:'the quick brown fox jumps over the lazy dog' intervalName-b start_time:1.5933216548015925 end_time:1.6199952774699884 start_frame:316.66433096031847 end_frame:321.9990554939977
+word:'the quick brown fox jumps over the lazy dog' intervalName-r start_time:1.6199952774699884 end_time:1.658486723222326 start_frame:321.9990554939977 end_frame:329.69734464446515
+word:'the quick brown fox jumps over the lazy dog' intervalName-aw start_time:1.658486723222326 end_time:1.7540959615635647 start_frame:329.69734464446515 end_frame:348.8191923127129
+word:'the quick brown fox jumps over the lazy dog' intervalName-n start_time:1.7540959615635647 end_time:1.8523903693671666 start_frame:348.8191923127129 end_frame:368.4780738734333
+word:'the quick brown fox jumps over the lazy dog' intervalName-f start_time:1.8523903693671666 end_time:1.9680923649801985 start_frame:368.4780738734333 end_frame:391.61847299603966
+word:'the quick brown fox jumps over the lazy dog' intervalName-aa start_time:1.9680923649801985 end_time:2.124834120675028 start_frame:391.61847299603966 end_frame:422.9668241350056
+word:'the quick brown fox jumps over the lazy dog' intervalName-k start_time:2.1389247838518557 end_time:2.2014172712463833 start_frame:425.7849567703711 end_frame:438.28345424927664
+word:'the quick brown fox jumps over the lazy dog' intervalName-s start_time:2.2014172712463833 end_time:2.3078656967317923 start_frame:438.28345424927664 end_frame:459.5731393463584
+word:'the quick brown fox jumps over the lazy dog' intervalName-jh start_time:2.361618184110024 end_time:2.4205596083084115 start_frame:470.3236368220048 end_frame:482.1119216616823
+word:'the quick brown fox jumps over the lazy dog' intervalName-ah start_time:2.4205596083084115 end_time:2.49051025730165 start_frame:482.1119216616823 end_frame:496.10205146033
+word:'the quick brown fox jumps over the lazy dog' intervalName-m start_time:2.49051025730165 end_time:2.531399076282726 start_frame:496.10205146033 end_frame:504.27981525654513
+word:'the quick brown fox jumps over the lazy dog' intervalName-p start_time:2.558365718669593 end_time:2.580326824604158 start_frame:509.67314373391855 end_frame:514.0653649208316
+word:'the quick brown fox jumps over the lazy dog' intervalName-s start_time:2.580326824604158 end_time:2.6795199548545123 start_frame:514.0653649208316 end_frame:533.9039909709024
+word:'the quick brown fox jumps over the lazy dog' intervalName-ow start_time:2.6795199548545123 end_time:2.770140377868346 start_frame:533.9039909709024 end_frame:552.0280755736692
+word:'the quick brown fox jumps over the lazy dog' intervalName-v start_time:2.770140377868346 end_time:2.8213697290943704 start_frame:552.0280755736692 end_frame:562.273945818874
+word:'the quick brown fox jumps over the lazy dog' intervalName-er start_time:2.8213697290943704 end_time:2.8811933272374852 start_frame:562.273945818874 end_frame:574.238665447497
+word:'the quick brown fox jumps over the lazy dog' intervalName-dh start_time:2.8811933272374852 end_time:2.944914093954231 start_frame:574.238665447497 end_frame:586.9828187908462
+word:'the quick brown fox jumps over the lazy dog' intervalName-ah start_time:2.944914093954231 end_time:3.0061668615984183 start_frame:586.9828187908462 end_frame:599.2333723196837
+word:'the quick brown fox jumps over the lazy dog' intervalName-l start_time:3.0061668615984183 end_time:3.062964882504846 start_frame:599.2333723196837 end_frame:610.5929765009691
+word:'the quick brown fox jumps over the lazy dog' intervalName-ey start_time:3.062964882504846 end_time:3.189897433502515 start_frame:610.5929765009691 end_frame:635.979486700503
+word:'the quick brown fox jumps over the lazy dog' intervalName-z start_time:3.189897433502515 end_time:3.2509525087725337 start_frame:635.979486700503 end_frame:648.1905017545067
+word:'the quick brown fox jumps over the lazy dog' intervalName-iy start_time:3.2509525087725337 end_time:3.33373655231589 start_frame:648.1905017545067 end_frame:664.747310463178
+word:'the quick brown fox jumps over the lazy dog' intervalName-d start_time:3.3823441789313686 end_time:3.4083548556614027 start_frame:674.4688357862736 end_frame:679.6709711322806
+word:'the quick brown fox jumps over the lazy dog' intervalName-ao start_time:3.4083548556614027 end_time:3.623612641350907 start_frame:679.6709711322806 end_frame:722.7225282701813
+word:'the quick brown fox jumps over the lazy dog' intervalName-g start_time:3.683945266667882 end_time:3.704786422668077 start_frame:734.7890533335764 end_frame:738.9572845336154

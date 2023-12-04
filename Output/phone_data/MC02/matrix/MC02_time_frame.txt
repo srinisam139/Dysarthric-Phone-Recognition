@@ -1,0 +1,68 @@
+word:'feed' intervalName-f start_time:1.5725 end_time:1.7575 start_frame:312.5 end_frame:349.5
+word:'feed' intervalName-iy start_time:1.7575 end_time:1.9786925086284335 start_frame:349.5 end_frame:393.7385017256867
+word:'feed' intervalName-d start_time:2.055014857453548 end_time:2.1075 start_frame:409.00297149070957 end_frame:419.49999999999994
+word:'horn' intervalName-hh start_time:1.7275 end_time:1.8 start_frame:343.5 end_frame:358
+word:'horn' intervalName-ao start_time:1.8 end_time:1.9175 start_frame:358 end_frame:381.5
+word:'horn' intervalName-r start_time:1.9175 end_time:1.99 start_frame:381.5 end_frame:396
+word:'horn' intervalName-n start_time:1.99 end_time:2.1175 start_frame:396 end_frame:421.5
+word:'the quick brown fox jumps over the lazy dog' intervalName-dh start_time:1.2375 end_time:1.295 start_frame:245.49999999999997 end_frame:256.99999999999994
+word:'the quick brown fox jumps over the lazy dog' intervalName-ah start_time:1.295 end_time:1.3525 start_frame:256.99999999999994 end_frame:268.5
+word:'the quick brown fox jumps over the lazy dog' intervalName-k start_time:1.4275 end_time:1.48 start_frame:283.49999999999994 end_frame:293.99999999999994
+word:'the quick brown fox jumps over the lazy dog' intervalName-w start_time:1.48 end_time:1.5075 start_frame:293.99999999999994 end_frame:299.5
+word:'the quick brown fox jumps over the lazy dog' intervalName-ih start_time:1.5075 end_time:1.58 start_frame:299.5 end_frame:314
+word:'the quick brown fox jumps over the lazy dog' intervalName-k start_time:1.58 end_time:1.6425 start_frame:314 end_frame:326.5
+word:'the quick brown fox jumps over the lazy dog' intervalName-b start_time:1.7225000000000001 end_time:1.7675 start_frame:342.5 end_frame:351.5
+word:'the quick brown fox jumps over the lazy dog' intervalName-r start_time:1.7675 end_time:1.8025 start_frame:351.5 end_frame:358.49999999999994
+word:'the quick brown fox jumps over the lazy dog' intervalName-aw start_time:1.8025 end_time:1.9075 start_frame:358.49999999999994 end_frame:379.49999999999994
+word:'the quick brown fox jumps over the lazy dog' intervalName-n start_time:1.9075 end_time:1.955 start_frame:379.49999999999994 end_frame:389
+word:'the quick brown fox jumps over the lazy dog' intervalName-f start_time:1.955 end_time:2.09 start_frame:389 end_frame:415.99999999999994
+word:'the quick brown fox jumps over the lazy dog' intervalName-aa start_time:2.09 end_time:2.2 start_frame:415.99999999999994 end_frame:438
+word:'the quick brown fox jumps over the lazy dog' intervalName-k start_time:2.2 end_time:2.275 start_frame:438 end_frame:452.99999999999994
+word:'the quick brown fox jumps over the lazy dog' intervalName-s start_time:2.275 end_time:2.4325 start_frame:452.99999999999994 end_frame:484.5
+word:'the quick brown fox jumps over the lazy dog' intervalName-jh start_time:2.4325 end_time:2.525 start_frame:484.5 end_frame:502.99999999999994
+word:'the quick brown fox jumps over the lazy dog' intervalName-ah start_time:2.525 end_time:2.59 start_frame:502.99999999999994 end_frame:515.9999999999999
+word:'the quick brown fox jumps over the lazy dog' intervalName-m start_time:2.59 end_time:2.6550000000000002 start_frame:515.9999999999999 end_frame:529
+word:'the quick brown fox jumps over the lazy dog' intervalName-p start_time:2.6550000000000002 end_time:2.685 start_frame:529 end_frame:535
+word:'the quick brown fox jumps over the lazy dog' intervalName-s start_time:2.685 end_time:2.7600000000000002 start_frame:535 end_frame:550
+word:'the quick brown fox jumps over the lazy dog' intervalName-ow start_time:2.7600000000000002 end_time:2.87 start_frame:550 end_frame:572
+word:'the quick brown fox jumps over the lazy dog' intervalName-v start_time:2.87 end_time:2.92 start_frame:572 end_frame:582
+word:'the quick brown fox jumps over the lazy dog' intervalName-er start_time:2.92 end_time:3.0175 start_frame:582 end_frame:601.5
+word:'the quick brown fox jumps over the lazy dog' intervalName-dh start_time:3.0175 end_time:3.08 start_frame:601.5 end_frame:614
+word:'the quick brown fox jumps over the lazy dog' intervalName-ah start_time:3.08 end_time:3.1475 start_frame:614 end_frame:627.5
+word:'the quick brown fox jumps over the lazy dog' intervalName-l start_time:3.1475 end_time:3.2 start_frame:627.5 end_frame:638
+word:'the quick brown fox jumps over the lazy dog' intervalName-ey start_time:3.2 end_time:3.325 start_frame:638 end_frame:663
+word:'the quick brown fox jumps over the lazy dog' intervalName-z start_time:3.325 end_time:3.4425 start_frame:663 end_frame:686.4999999999999
+word:'the quick brown fox jumps over the lazy dog' intervalName-iy start_time:3.4425 end_time:3.5275 start_frame:686.4999999999999 end_frame:703.4999999999999
+word:'the quick brown fox jumps over the lazy dog' intervalName-d start_time:3.56 end_time:3.6125000000000003 start_frame:710 end_frame:720.5
+word:'the quick brown fox jumps over the lazy dog' intervalName-aa start_time:3.6125000000000003 end_time:3.7325 start_frame:720.5 end_frame:744.5
+word:'the quick brown fox jumps over the lazy dog' intervalName-g start_time:3.7325 end_time:3.81 start_frame:744.5 end_frame:760
+word:'dont ask me to carry an oily rag like that' intervalName-d start_time:1.24 end_time:1.2775 start_frame:245.49999999999997 end_frame:253
+word:'dont ask me to carry an oily rag like that' intervalName-ow start_time:1.2775 end_time:1.3475 start_frame:253 end_frame:266.99999999999994
+word:'dont ask me to carry an oily rag like that' intervalName-n start_time:1.3475 end_time:1.42 start_frame:266.99999999999994 end_frame:281.49999999999994
+word:'dont ask me to carry an oily rag like that' intervalName-t start_time:1.42 end_time:1.4425000000000001 start_frame:281.49999999999994 end_frame:286
+word:'dont ask me to carry an oily rag like that' intervalName-ae start_time:1.4425000000000001 end_time:1.5575 start_frame:286 end_frame:309
+word:'dont ask me to carry an oily rag like that' intervalName-s start_time:1.5575 end_time:1.6500000000000001 start_frame:309 end_frame:327.5
+word:'dont ask me to carry an oily rag like that' intervalName-k start_time:1.6775 end_time:1.7275 start_frame:333 end_frame:343
+word:'dont ask me to carry an oily rag like that' intervalName-m start_time:1.7275 end_time:1.7750000000000001 start_frame:343 end_frame:352.5
+word:'dont ask me to carry an oily rag like that' intervalName-iy start_time:1.7750000000000001 end_time:1.85 start_frame:352.5 end_frame:367.5
+word:'dont ask me to carry an oily rag like that' intervalName-t start_time:1.8800000000000001 end_time:1.92 start_frame:373.5 end_frame:381.49999999999994
+word:'dont ask me to carry an oily rag like that' intervalName-uw start_time:1.92 end_time:1.9725000000000001 start_frame:381.49999999999994 end_frame:392
+word:'dont ask me to carry an oily rag like that' intervalName-k start_time:1.9725000000000001 end_time:2.095 start_frame:392 end_frame:416.5
+word:'dont ask me to carry an oily rag like that' intervalName-eh start_time:2.095 end_time:2.18 start_frame:416.5 end_frame:433.5
+word:'dont ask me to carry an oily rag like that' intervalName-r start_time:2.18 end_time:2.295 start_frame:433.5 end_frame:456.49999999999994
+word:'dont ask me to carry an oily rag like that' intervalName-iy start_time:2.295 end_time:2.3775 start_frame:456.49999999999994 end_frame:472.99999999999994
+word:'dont ask me to carry an oily rag like that' intervalName-ae start_time:2.3775 end_time:2.445 start_frame:472.99999999999994 end_frame:486.49999999999994
+word:'dont ask me to carry an oily rag like that' intervalName-n start_time:2.445 end_time:2.5625 start_frame:486.49999999999994 end_frame:510
+word:'dont ask me to carry an oily rag like that' intervalName-ow start_time:2.6350000000000002 end_time:2.765 start_frame:524.5 end_frame:550.5
+word:'dont ask me to carry an oily rag like that' intervalName-l start_time:2.765 end_time:2.84 start_frame:550.5 end_frame:565.5
+word:'dont ask me to carry an oily rag like that' intervalName-iy start_time:2.84 end_time:2.9375 start_frame:565.5 end_frame:585
+word:'dont ask me to carry an oily rag like that' intervalName-r start_time:2.9375 end_time:3.0675 start_frame:585 end_frame:611
+word:'dont ask me to carry an oily rag like that' intervalName-ae start_time:3.0675 end_time:3.2925 start_frame:611 end_frame:656
+word:'dont ask me to carry an oily rag like that' intervalName-g start_time:3.2925 end_time:3.3425000000000002 start_frame:656 end_frame:666
+word:'dont ask me to carry an oily rag like that' intervalName-l start_time:3.3425000000000002 end_time:3.3850000000000002 start_frame:666 end_frame:674.5
+word:'dont ask me to carry an oily rag like that' intervalName-ay start_time:3.3850000000000002 end_time:3.485 start_frame:674.5 end_frame:694.5
+word:'dont ask me to carry an oily rag like that' intervalName-ay start_time:3.3850000000000002 end_time:3.485 start_frame:674.5 end_frame:694.5
+word:'dont ask me to carry an oily rag like that' intervalName-k start_time:3.485 end_time:3.535 start_frame:694.5 end_frame:704.5
+word:'dont ask me to carry an oily rag like that' intervalName-dh start_time:3.535 end_time:3.6350000000000002 start_frame:704.5 end_frame:724.5
+word:'dont ask me to carry an oily rag like that' intervalName-ae start_time:3.6350000000000002 end_time:3.7225 start_frame:724.5 end_frame:742
+word:'dont ask me to carry an oily rag like that' intervalName-t start_time:3.7225 end_time:3.7875 start_frame:742 end_frame:755

@@ -1,0 +1,34 @@
+word:'feed' intervalName-f start_time:1.7075 end_time:1.95 start_frame:339.5 end_frame:388
+word:'feed' intervalName-iy start_time:1.95 end_time:2.34 start_frame:388 end_frame:465.99999999999994
+word:'feed' intervalName-d start_time:2.4925 end_time:2.5625 start_frame:496.5 end_frame:510.49999999999994
+word:'horn' intervalName-ao start_time:1.5825 end_time:1.8925 start_frame:314.5 end_frame:376.5
+word:'horn' intervalName-r start_time:1.8925 end_time:2.0575 start_frame:376.5 end_frame:409.5
+word:'horn' intervalName-n start_time:2.0575 end_time:2.2725 start_frame:409.5 end_frame:452.49999999999994
+word:'dont ask me to carry an oily rag like that' intervalName-d start_time:2.19 end_time:2.2775 start_frame:435.99999999999994 end_frame:453.49999999999994
+word:'dont ask me to carry an oily rag like that' intervalName-ow start_time:2.2775 end_time:2.545 start_frame:453.49999999999994 end_frame:506.99999999999994
+word:'dont ask me to carry an oily rag like that' intervalName-n start_time:2.545 end_time:2.6550000000000002 start_frame:506.99999999999994 end_frame:529
+word:'dont ask me to carry an oily rag like that' intervalName-ae start_time:2.6550000000000002 end_time:3.095 start_frame:529 end_frame:617
+word:'dont ask me to carry an oily rag like that' intervalName-k start_time:3.21 end_time:3.2425 start_frame:640 end_frame:646.5
+word:'dont ask me to carry an oily rag like that' intervalName-m start_time:3.2425 end_time:3.4175 start_frame:646.5 end_frame:681.5
+word:'dont ask me to carry an oily rag like that' intervalName-iy start_time:3.4175 end_time:3.595 start_frame:681.5 end_frame:717
+word:'dont ask me to carry an oily rag like that' intervalName-t start_time:4.2325 end_time:4.29 start_frame:844.4999999999999 end_frame:855.9999999999999
+word:'dont ask me to carry an oily rag like that' intervalName-uw start_time:4.29 end_time:4.5775 start_frame:855.9999999999999 end_frame:913.4999999999998
+word:'dont ask me to carry an oily rag like that' intervalName-k start_time:4.625 end_time:4.7525 start_frame:922.9999999999999 end_frame:948.5
+word:'dont ask me to carry an oily rag like that' intervalName-ae start_time:4.7525 end_time:4.9875 start_frame:948.5 end_frame:995.4999999999999
+word:'dont ask me to carry an oily rag like that' intervalName-r start_time:4.9875 end_time:5.085 start_frame:995.4999999999999 end_frame:1014.9999999999999
+word:'dont ask me to carry an oily rag like that' intervalName-iy start_time:5.085 end_time:5.3525 start_frame:1014.9999999999999 end_frame:1068.4999999999998
+word:'dont ask me to carry an oily rag like that' intervalName-ae start_time:5.3525 end_time:5.4825 start_frame:1068.4999999999998 end_frame:1094.4999999999998
+word:'dont ask me to carry an oily rag like that' intervalName-n start_time:5.4825 end_time:5.625 start_frame:1094.4999999999998 end_frame:1122.9999999999998
+word:'dont ask me to carry an oily rag like that' intervalName-oy start_time:5.625 end_time:5.8775 start_frame:1122.9999999999998 end_frame:1173.5
+word:'dont ask me to carry an oily rag like that' intervalName-y start_time:5.8775 end_time:6.0375000000000005 start_frame:1173.5 end_frame:1205.5
+word:'dont ask me to carry an oily rag like that' intervalName-l start_time:6.0375000000000005 end_time:6.1325 start_frame:1205.5 end_frame:1224.5
+word:'dont ask me to carry an oily rag like that' intervalName-iy start_time:6.1325 end_time:6.4725 start_frame:1224.5 end_frame:1292.5
+word:'dont ask me to carry an oily rag like that' intervalName-r start_time:6.4725 end_time:6.675 start_frame:1292.5 end_frame:1332.9999999999998
+word:'dont ask me to carry an oily rag like that' intervalName-ae start_time:6.675 end_time:6.8500000000000005 start_frame:1332.9999999999998 end_frame:1368
+word:'dont ask me to carry an oily rag like that' intervalName-g start_time:6.985 end_time:7.0275 start_frame:1395 end_frame:1403.4999999999998
+word:'dont ask me to carry an oily rag like that' intervalName-l start_time:7.0275 end_time:7.1175 start_frame:1403.4999999999998 end_frame:1421.4999999999998
+word:'dont ask me to carry an oily rag like that' intervalName-ay start_time:7.1175 end_time:7.3075 start_frame:1421.4999999999998 end_frame:1459.4999999999998
+word:'dont ask me to carry an oily rag like that' intervalName-ay start_time:7.1175 end_time:7.3075 start_frame:1421.4999999999998 end_frame:1459.4999999999998
+word:'dont ask me to carry an oily rag like that' intervalName-k start_time:7.415 end_time:7.4975000000000005 start_frame:1480.9999999999998 end_frame:1497.5
+word:'dont ask me to carry an oily rag like that' intervalName-dh start_time:7.5925 end_time:7.6375 start_frame:1516.5 end_frame:1525.5
+word:'dont ask me to carry an oily rag like that' intervalName-ae start_time:7.6375 end_time:7.7775 start_frame:1525.5 end_frame:1553.4999999999998

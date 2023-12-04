@@ -1,0 +1,315 @@
+{
+  "M01": [
+    {
+      "person_name": "M01",
+      "session_name": "Session1",
+      "file_number": "0055",
+      "text": "feed",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M01/Session1/wav_headMic/0055.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M01/Session1/prompts/0055.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M01/Session1/phn_headMic/0055.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M01/Session1/pos/0055.pos",
+      "Annotation": "Manual"
+    },
+    {
+      "person_name": "M01",
+      "session_name": "Session1",
+      "file_number": "0020",
+      "text": "horn",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M01/Session1/wav_headMic/0020.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M01/Session1/prompts/0020.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M01/Session1/phn_headMic/0020.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M01/Session1/pos/0020.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "M01",
+      "session_name": "Session1",
+      "file_number": "0044",
+      "text": "dont ask me to carry an oily rag like that",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M01/Session1/wav_headMic/0044.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M01/Session1/prompts/0044.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M01/Session1/phn_headMic/0044.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M01/Session1/pos/0044.pos",
+      "Annotation": "Auto"
+    }
+  ],
+  "M04": [
+    {
+      "person_name": "M04",
+      "session_name": "Session2",
+      "file_number": "0079",
+      "text": "feed",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/wav_headMic/0079.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/prompts/0079.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/phn_headMic/0079.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/pos/0079.pos",
+      "Annotation": "Manual"
+    },
+    {
+      "person_name": "M04",
+      "session_name": "Session2",
+      "file_number": "0102",
+      "text": "horn",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/wav_headMic/0102.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/prompts/0102.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/phn_headMic/0102.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/pos/0102.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "M04",
+      "session_name": "Session2",
+      "file_number": "0038",
+      "text": "the quick brown fox jumps over the lazy dog",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/wav_headMic/0038.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/prompts/0038.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/phn_headMic/0038.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/pos/0038.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "M04",
+      "session_name": "Session2",
+      "file_number": "0032",
+      "text": "dont ask me to carry an oily rag like that",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/wav_headMic/0032.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/prompts/0032.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/phn_headMic/0032.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M04/Session2/pos/0032.pos",
+      "Annotation": "Auto"
+    }
+  ],
+  "M05": [
+    {
+      "person_name": "M05",
+      "session_name": "Session1",
+      "file_number": "0122",
+      "text": "feed",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/wav_headMic/0122.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/prompts/0122.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/phn_headMic/0122.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/pos/0122.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "M05",
+      "session_name": "Session1",
+      "file_number": "0029",
+      "text": "horn",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/wav_headMic/0029.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/prompts/0029.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/phn_headMic/0029.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/pos/0029.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "M05",
+      "session_name": "Session1",
+      "file_number": "0056",
+      "text": "the quick brown fox jumps over the lazy dog",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/wav_headMic/0056.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/prompts/0056.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/phn_headMic/0056.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/pos/0056.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "M05",
+      "session_name": "Session1",
+      "file_number": "0078",
+      "text": "dont ask me to carry an oily rag like that",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/wav_headMic/0078.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/prompts/0078.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/phn_headMic/0078.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M05/Session1/pos/0078.pos",
+      "Annotation": "Auto"
+    }
+  ],
+  "MC01": [
+    {
+      "person_name": "MC01",
+      "session_name": "Session3",
+      "file_number": "0056",
+      "text": "feed",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session3/wav_headMic/0056.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session3/prompts/0056.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session3/phn_headMic/0056.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session3/pos/0056.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "MC01",
+      "session_name": "Session3",
+      "file_number": "0246",
+      "text": "horn",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session3/wav_headMic/0246.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session3/prompts/0246.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session3/phn_headMic/0246.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session3/pos/0246.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "MC01",
+      "session_name": "Session1",
+      "file_number": "0061",
+      "text": "the quick brown fox jumps over the lazy dog",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session1/wav_headMic/0061.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session1/prompts/0061.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session1/phn_headMic/0061.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session1/pos/0061.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "MC01",
+      "session_name": "Session1",
+      "file_number": "0094",
+      "text": "dont ask me to carry an oily rag like that",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session1/wav_headMic/0094.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session1/prompts/0094.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session1/phn_headMic/0094.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC01/Session1/pos/0094.pos",
+      "Annotation": "Auto"
+    }
+  ],
+  "MC02": [
+    {
+      "person_name": "MC02",
+      "session_name": "Session1",
+      "file_number": "0105",
+      "text": "feed",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/wav_headMic/0105.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/prompts/0105.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/phn_headMic/0105.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/pos/0105.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "MC02",
+      "session_name": "Session1",
+      "file_number": "0044",
+      "text": "horn",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/wav_headMic/0044.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/prompts/0044.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/phn_headMic/0044.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/pos/0044.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "MC02",
+      "session_name": "Session1",
+      "file_number": "0030",
+      "text": "the quick brown fox jumps over the lazy dog",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/wav_headMic/0030.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/prompts/0030.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/phn_headMic/0030.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/pos/0030.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "MC02",
+      "session_name": "Session1",
+      "file_number": "0032",
+      "text": "dont ask me to carry an oily rag like that",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/wav_headMic/0032.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/prompts/0032.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/phn_headMic/0032.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC02/Session1/pos/0032.pos",
+      "Annotation": "Auto"
+    }
+  ],
+  "MC03": [
+    {
+      "person_name": "MC03",
+      "session_name": "Session1",
+      "file_number": "0056",
+      "text": "feed",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC03/Session1/wav_headMic/0056.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC03/Session1/prompts/0056.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC03/Session1/phn_headMic/0056.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC03/Session1/pos/0056.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "MC03",
+      "session_name": "Session1",
+      "file_number": "0106",
+      "text": "horn",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC03/Session1/wav_headMic/0106.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC03/Session1/prompts/0106.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC03/Session1/phn_headMic/0106.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC03/Session1/pos/0106.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "MC03",
+      "session_name": "Session1",
+      "file_number": "0066",
+      "text": "the quick brown fox jumps over the lazy dog",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC03/Session1/wav_headMic/0066.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC03/Session1/prompts/0066.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC03/Session1/phn_headMic/0066.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC03/Session1/pos/0066.pos",
+      "Annotation": "Manual"
+    }
+  ],
+  "M03": [
+    {
+      "person_name": "M03",
+      "session_name": "Session2",
+      "file_number": "0030",
+      "text": "feed",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M03/Session2/wav_headMic/0030.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M03/Session2/prompts/0030.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M03/Session2/phn_arrayMic/0030.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/M/M03/Session2/pos/0030.pos",
+      "Annotation": "Manual"
+    }
+  ],
+  "MC04": [
+    {
+      "person_name": "MC04",
+      "session_name": "Session1",
+      "file_number": "0086",
+      "text": "feed",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/wav_headMic/0086.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/prompts/0086.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/phn_headMic/0086.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/pos/0086.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "MC04",
+      "session_name": "Session1",
+      "file_number": "0120",
+      "text": "horn",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/wav_headMic/0120.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/prompts/0120.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/phn_headMic/0120.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/pos/0120.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "MC04",
+      "session_name": "Session1",
+      "file_number": "0036",
+      "text": "the quick brown fox jumps over the lazy dog",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/wav_headMic/0036.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/prompts/0036.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/phn_headMic/0036.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/pos/0036.pos",
+      "Annotation": "Auto"
+    },
+    {
+      "person_name": "MC04",
+      "session_name": "Session1",
+      "file_number": "0012",
+      "text": "dont ask me to carry an oily rag like that",
+      "wav_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/wav_headMic/0012.wav",
+      "prompt_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/prompts/0012.txt",
+      "phn_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/phn_headMic/0012.phn",
+      "pos_file_path": "/Users/shrinivassampathmuthupalaniyappan/Desktop/Courses/Capstone/Local_Copy/Dataset/MC/MC04/Session1/pos/0012.pos",
+      "Annotation": "Auto"
+    }
+  ]
+}

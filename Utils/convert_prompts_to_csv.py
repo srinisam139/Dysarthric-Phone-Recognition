@@ -39,7 +39,7 @@ csv_file = "prompts.csv"
 
 with open(csv_file, "w", newline="") as csvfile:
     csv_writer = csv.writer(csvfile)
-    csv_writer.writerow(["File Name", "Text"])
+    csv_writer.writerow(["File_Name", "Text"])
 
     for directory in directories:
         dir_path = os.path.join(root_directory, directory)
